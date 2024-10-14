@@ -1,0 +1,1 @@
+alert('CSP Bypass Successful via external script!');
